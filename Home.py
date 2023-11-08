@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 
 st.set_page_config(
     page_title="汪喵星球-測試工程師",
