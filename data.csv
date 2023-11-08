@@ -1,0 +1,18 @@
+title;description;url;image
+待辦事項App;無論是日常工作、學習還是生活中的大小事，我們總是有許多事情需要處理。使用此App能記錄你每日需要處理的事項!;https://github.com/9yiwei/1-app1-todo-app-website;1.png
+自傳網站;用於展示編碼專案和應用程式。;https://github.com/9yiwei/2-app2-portfolio;2.png
+PDF模板;根據一些預先定義的準則產生多個頁面的PDF範本。;https://github.com/9yiwei/3-app3-pdf-template;3.png
+PDF發票;從Excel檔案讀取發票記錄並自動產生PDF發票的腳本。;https://github.com/9yiwei/4-app4-invoice-generation;4.png
+新聞;每日發送指定話題郵件的腳本;https://github.com/9yiwei/5-app5-news-api-email;5.png
+天氣API;使用Flask建立的REST API，用於提供各個城市的歷史天氣資料。;https://github.com/9yiwei/6-app6-your-weather-api;6.png
+網頁爬蟲;檢查樂隊的網站並在有新巡迴演出時發送電子郵件。;https://github.com/9yiwei/10-app10-scraping-tours-sql;8.png
+聊天機器人;使用CHATGPT API搭配PyQt製作介面的聊天機器人;https://github.com/9yiwei/15-app15-chatbot-gpt-gui;9.png
+網路攝影機運動偵測器;監視電腦網路攝影機並在新物件進入檢視時發送電子郵件的程式。;https://github.com/9yiwei/9-app9-email-webcam-detection;11.png
+視覺化數據;使用Jupyter及Pandas處理資料並且視覺化 ;https://github.com/9yiwei/19-app19-Visualizing-Data;15.png
+可視化天氣預報;一款數據網路應用程序，可視化任何城市未來五天的天氣預報。;https://github.com/9yiwei/7-app7-weather-forecast;16.png
+學校管理系統;桌面PyQt6 GUI應用程序，用於透過SQL資料庫後端管理複雜的大學資料。;https://github.com/9yiwei/14-app13-student-management-system-mysql;18.png
+菜單網站(Django);Django Web應用程序，可讓客戶查看餐廳菜單和餐點供應情況。;https://github.com/9yiwei/18-app18-restaurant_menu-django;19.png
+書本數據分析;使用Jupyter及Pandas進行資料分析，並且使用NLP情感分析。;https://github.com/9yiwei/8-app8-book-analysis;21.png
+訂房腳本;使用Pandas進行資料分析，並且進行簡單的訂房腳本。;https://github.com/9yiwei/11-app11-hotel-booking;22.png
+工作申請網站(Flask);Flask應用程續，可讓求職者輸入相關求職資訊。;https://github.com/9yiwei/16-app16-jobapplication-flask-form;24.png
+工作申請網站(Django);Django應用程續，可讓求職者輸入相關求職資訊。;https://github.com/9yiwei/17-app17-jobapplication-django-form;23.png
