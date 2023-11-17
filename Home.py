@@ -15,7 +15,7 @@ with col1:
 with col2:
     st.title("周益葳 - Howard")
     content1 = """
-您好，我叫做周益葳(60%汪星人、40%喵星人)，來自朝陽科技大學資訊管理系，興趣是看動畫、打遊戲、爬山等等。 \n
+您好，我叫做周益葳(60%汪星人、40%喵星人)，興趣是看動畫、打遊戲、爬山等等。 \n
 我的上一份(正職)工作是軟體專案助理，讓我了解了程式開發流程，由於工作需要，我需要進行網站測試並記錄Bug，準備相關測試文件等。
 也因為上一份工作的要求，我還需要將客戶或主管的要求精簡化，讓接收訊息的人能夠用迅速的理解問題。
 之前也因為工作中程式上線後有短暫駐點，需要直接的面對客戶，能以使用者的角度看待需求，也學會了靈機應變和獨立作業的能力。 \n
@@ -34,7 +34,7 @@ content3 = """
 因為是幫忙代班，工作內容比較簡單，所以比較有時間規劃自己的時間，目前程式皆使用Udemy自學Python，完成課程如下: \n
 1.100 Days of Code: The Complete Python Pro Bootcamp for 2023 \n
 2.Python Mega Course: Learn Python in 60 Days, Build 20 Apps \n
-3.Selenium Webdriver with PYTHON from Scratch + Frameworks \n
+3.Selenium WebDriver: Selenium Automation Testing with Python \n
 從課程中不但了解程式前後端的開發邏輯、自動化的測試方法，也希望之後能朝自動化測試的方向前進，除此之外有空閒之餘也會上LeetCode刷題。
 """
 st.write(content3)
@@ -43,7 +43,11 @@ st.divider()
 content4 = """
 2020/05－2022/05 \n
 任職-桓基科技(軟體專案助理) \n
-主要負責團隊的專案協調、時間控管、系統測試、專案文件製作整合的工作，也時常與團隊成員討論使用者需求、議題，也時常參與使用者需求訪談及規劃往後會議。
+主要負責團隊的專案協調、時間控管、系統測試、專案文件製作整合的工作，也時常與團隊成員討論使用者需求、議題，也時常參與使用者需求訪談及規劃往後會議。 \n
+在職期間完成專案如下: \n
+1.訴願入口網開發案 \n
+2.土銀入口網開發案 \n
+3.土銀維護案 \n
 """
 st.write(content4)
 st.divider()

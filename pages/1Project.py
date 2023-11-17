@@ -1,7 +1,12 @@
 import streamlit as st
 import pandas
 
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="汪喵星球-測試工程師",
+    page_icon=":rocket:",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
 content2 = """
 下面是我最近做的一些Python專案。

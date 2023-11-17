@@ -16,3 +16,4 @@ PDF發票;從Excel檔案讀取發票記錄並自動產生PDF發票的腳本。;h
 訂房腳本;使用Pandas進行資料分析，並且進行簡單的訂房腳本。;https://github.com/9yiwei/11-app11-hotel-booking;22.png
 工作申請網站(Flask);Flask應用程續，可讓求職者輸入相關求職資訊。;https://github.com/9yiwei/16-app16-jobapplication-flask-form;24.png
 工作申請網站(Django);Django應用程續，可讓求職者輸入相關求職資訊。;https://github.com/9yiwei/17-app17-jobapplication-django-form;23.png
+電影推薦系統;使用deepnote處理電影相關數據，依據目前熱門電影/使用者偏好/評分預測推薦給使用者不同的電影。;https://deepnote.com/workspace/home-4125-0bb84239-5726-419e-b6a3-b45a2a07c65e/project/Movie-Recommendation-System-506df930-151c-4375-98e3-72926514795a/notebook/Notebook%201-995dad51801d4872869c7523119c180a?project-sidebar=project;25.jpg
