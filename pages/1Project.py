@@ -2,7 +2,7 @@ import streamlit as st
 import pandas
 
 st.set_page_config(
-    page_title="汪喵星球-測試工程師",
+    page_title="周益葳-履歷",
     page_icon=":rocket:",
     layout="wide",
     initial_sidebar_state="expanded"
